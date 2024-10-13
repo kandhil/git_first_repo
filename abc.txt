@@ -1,3 +1,4 @@
 This the first line in abc.txt file by branch1
+updating the second line of file in branch1
 
 This the second line in abc.txt file by branch1
