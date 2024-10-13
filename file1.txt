@@ -1,3 +1,0 @@
-This the first line in main branch file1.txt
-
-This the second line in this file
