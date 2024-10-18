@@ -1,1 +1,2 @@
 This the first line in file2.txt by branch main
+This the second line in file2.txt by remote
